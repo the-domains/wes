@@ -1,7 +1,7 @@
 name: null
 favicon: null
-layout_spectrum: 0.33772
-typography_spectrum: 0
+layout_spectrum: 0.8
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -19,7 +19,4 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
-purpose:
-  - name: follow
-    item: 66e340ea-008b-4cc3-ab01-113e83aaa4b6
-    url: null
+purpose: []
