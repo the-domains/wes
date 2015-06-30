@@ -7,15 +7,15 @@ description: ''
 author: []
 datePublished: '2015-06-30T02:37:11.695Z'
 title: Art in Bloom
+dateModified: '2015-06-30T02:41:18.298Z'
+sourcePath: _posts/2015-06-30-art-in-bloom.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-dateModified: '2015-06-30T02:37:11.695Z'
-sourcePath: _posts/2015-06-30-art-in-bloom.md
-published: true
 url: art-in-bloom/index.html
 _type: Article
 _context: 'http://schema.org'
