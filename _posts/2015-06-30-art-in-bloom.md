@@ -13,7 +13,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-dateModified: '2015-06-30T02:44:32.481Z'
+dateModified: '2015-06-30T02:53:06.506Z'
 sourcePath: _posts/2015-06-30-art-in-bloom.md
 published: true
 url: art-in-bloom/index.html
