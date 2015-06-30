@@ -10,15 +10,15 @@ title: Art in Bloom
 tags:
   - NCMA
   - Flowers
+dateModified: '2015-06-30T02:32:29.495Z'
+sourcePath: _posts/2015-06-30-art-in-bloom.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-dateModified: '2015-06-30T02:29:42.170Z'
-sourcePath: _posts/2015-06-30-art-in-bloom.md
-published: true
 url: art-in-bloom/index.html
 _type: Article
 _context: 'http://schema.org'
