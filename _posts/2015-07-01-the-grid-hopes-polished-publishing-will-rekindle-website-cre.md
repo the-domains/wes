@@ -43,7 +43,7 @@ app_links: []
 isBasedOnUrl: 'http://www.cnet.com/news/the-grid-hopes-polished-publishing-will-rekindle-website-creation/'
 title: The Grid hopes polished publishing will rekindle website creation - CNET
 datePublished: '2015-07-01T20:21:03.354Z'
-dateModified: '2015-07-01T20:21:03.354Z'
+dateModified: '2015-07-01T20:30:45.528Z'
 sourcePath: _posts/2015-07-01-the-grid-hopes-polished-publishing-will-rekindle-website-cre.md
 published: true
 _context: 'http://schema.org'
