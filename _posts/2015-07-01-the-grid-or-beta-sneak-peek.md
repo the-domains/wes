@@ -36,7 +36,7 @@ app_links:
 isBasedOnUrl: 'https://www.youtube.com/watch?v=H44t-llS_3o'
 title: 'The Grid | Beta Sneak Peek'
 datePublished: '2015-07-01T05:08:39.722Z'
-dateModified: '2015-07-01T05:08:39.722Z'
+dateModified: '2015-07-01T19:43:51.311Z'
 sourcePath: _posts/2015-07-01-the-grid-or-beta-sneak-peek.md
 published: true
 _type: VideoObject
