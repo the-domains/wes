@@ -35,20 +35,17 @@ related: []
 app_links: []
 datePublished: '2015-07-01T02:47:02.154Z'
 title: 'Stage from the tunnel! #StonesRaleigh'
+dateModified: '2015-07-01T02:48:48.701Z'
+sourcePath: _posts/2015-07-01-stage-from-the-tunnel-stonesraleigh.md
+published: true
 authors: []
 publisher:
   name: Twitter
   domain: twitter.com
   url: 'http://twitter.com'
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-dateModified: '2015-07-01T02:47:02.154Z'
-sourcePath: _posts/2015-07-01-stage-from-the-tunnel-stonesraleigh.md
-published: true
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-# Stage from the tunnel! [\#StonesRaleigh][0]
 ![Stage from the tunnel&excl; &num;StonesRaleigh](https://pbs.twimg.com/media/CIwvPsNWwAAN4-F.jpg:large)
-
-[0]: https://twitter.com/hashtag/StonesRaleigh?src=hash
