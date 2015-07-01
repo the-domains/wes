@@ -7,7 +7,7 @@ description: ''
 author: []
 datePublished: '2015-07-01T02:42:56.507Z'
 title: Art in Bloom @ NC Art Museum
-dateModified: '2015-07-01T02:59:01.335Z'
+dateModified: '2015-07-01T03:01:00.238Z'
 sourcePath: _posts/2015-07-01-art-in-bloom-nc-art-museum.md
 published: true
 authors: []
