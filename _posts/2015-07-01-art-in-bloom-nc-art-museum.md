@@ -13,7 +13,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-dateModified: '2015-07-01T02:42:56.507Z'
+dateModified: '2015-07-01T02:47:02.482Z'
 sourcePath: _posts/2015-07-01-art-in-bloom-nc-art-museum.md
 published: true
 url: art-in-bloom-nc-art-museum/index.html
