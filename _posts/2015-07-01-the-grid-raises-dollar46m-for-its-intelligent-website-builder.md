@@ -26,7 +26,7 @@ app_links: []
 isBasedOnUrl: 'http://techcrunch.com/2014/12/02/the-grid-raises-4-6m-for-its-intelligent-website-builder/'
 title: The Grid Raises $4.6M For Its Intelligent Website Builder
 datePublished: '2015-07-01T00:59:16.356Z'
-dateModified: '2015-07-01T00:59:16.356Z'
+dateModified: '2015-07-01T01:03:37.511Z'
 sourcePath: _posts/2015-07-01-the-grid-raises-dollar46m-for-its-intelligent-website-builder.md
 published: true
 _context: 'http://schema.org'
