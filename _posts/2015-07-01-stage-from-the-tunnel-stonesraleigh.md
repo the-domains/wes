@@ -13,7 +13,7 @@ publisher:
   domain: twitter.com
   url: null
   favicon: null
-dateModified: '2015-07-01T02:14:32.707Z'
+dateModified: '2015-07-01T02:20:48.821Z'
 sourcePath: _posts/2015-07-01-stage-from-the-tunnel-stonesraleigh.md
 published: true
 url: stage-from-the-tunnel-stonesraleigh/index.html
