@@ -7,7 +7,7 @@ description: ''
 author: []
 datePublished: '2015-06-30T22:16:22.860Z'
 title: Art in Bloom
-dateModified: '2015-06-30T22:24:38.970Z'
+dateModified: '2015-07-01T00:54:57.438Z'
 sourcePath: _posts/2015-06-30-art-in-bloom.md
 published: true
 authors: []
@@ -23,6 +23,8 @@ _context: 'http://schema.org'
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ee4f568-e1ee-49d2-9cd3-a80abf612647.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/711e8be8-74f7-4cea-a56a-9cffe22f6fea.jpg)
+
+# Art in Bloom
 
 Starting today through Sunday (3/19-3/22) the NC Art Museum presents [ART IN BLOOM][0] , the NCMA's inaugural festival of art and flowers. 45 stunning floral masterpieces created by world-class floral
 designers from all around North Carolina and a few other states designed and created their masterpieces based on inspiration from select artwork from the permanent collection in the West Building. This
