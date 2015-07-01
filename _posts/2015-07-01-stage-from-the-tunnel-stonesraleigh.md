@@ -35,7 +35,7 @@ related: []
 app_links: []
 datePublished: '2015-07-01T02:47:02.154Z'
 title: 'Stage from the tunnel! #StonesRaleigh'
-dateModified: '2015-07-01T02:48:48.701Z'
+dateModified: '2015-07-01T02:50:56.569Z'
 sourcePath: _posts/2015-07-01-stage-from-the-tunnel-stonesraleigh.md
 published: true
 authors: []
@@ -49,3 +49,5 @@ _context: 'http://schema.org'
 
 ---
 ![Stage from the tunnel&excl; &num;StonesRaleigh](https://pbs.twimg.com/media/CIwvPsNWwAAN4-F.jpg:large)
+
+# Stage from the tunnel! \#StonesRaleigh
