@@ -9,15 +9,15 @@ datePublished: '2015-07-19T20:07:43.038Z'
 title: The Sun Raise
 tags:
   - ''
+dateModified: '2015-07-19T20:15:18.922Z'
+sourcePath: _posts/2015-07-19-the-sun-raise.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-dateModified: '2015-07-19T20:07:43.038Z'
-sourcePath: _posts/2015-07-19-the-sun-raise.md
-published: true
 url: the-sun-raise/index.html
 _type: Article
 _context: 'http://schema.org'
