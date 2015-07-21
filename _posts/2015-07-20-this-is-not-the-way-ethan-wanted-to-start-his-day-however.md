@@ -22,7 +22,7 @@ app_links:
 isBasedOnUrl: 'https://instagram.com/p/5Mbs_DwDYz/?taken-by=wes_elder'
 title: "This is not the way Ethan wanted to start his day. However, it's always nice to see the bright shining face of the respiratory therapist who is an Ace at treating Ethan's croup."
 datePublished: '2015-07-20T22:57:20.083Z'
-dateModified: '2015-07-21T03:16:06.606Z'
+dateModified: '2015-07-21T03:58:33.115Z'
 sourcePath: _posts/2015-07-20-this-is-not-the-way-ethan-wanted-to-start-his-day-however.md
 published: true
 starred: true
