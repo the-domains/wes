@@ -22,7 +22,7 @@ app_links:
 isBasedOnUrl: 'https://instagram.com/p/5U7pGAQDRZ/?taken-by=wes_elder'
 title: I found this neon light in the middle of the NC Art Museum. Can you figure out what it is saying?
 datePublished: '2015-07-20T22:57:20.179Z'
-dateModified: '2015-07-20T22:57:20.179Z'
+dateModified: '2015-07-21T03:58:33.099Z'
 sourcePath: _posts/2015-07-20-i-found-this-neon-light-in-the-middle-of-the-nc-art-museum.md
 published: true
 _type: Photograph
