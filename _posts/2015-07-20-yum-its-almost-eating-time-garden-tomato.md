@@ -22,7 +22,7 @@ app_links:
 isBasedOnUrl: 'https://instagram.com/p/4rU8xGQDc2/?taken-by=wes_elder'
 title: "Yum! It's almost eating time. #garden #tomato"
 datePublished: '2015-07-20T22:57:19.817Z'
-dateModified: '2015-07-20T22:57:19.817Z'
+dateModified: '2015-07-21T03:58:33.134Z'
 sourcePath: _posts/2015-07-20-yum-its-almost-eating-time-garden-tomato.md
 published: true
 _type: Photograph
