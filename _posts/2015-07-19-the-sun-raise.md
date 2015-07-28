@@ -9,7 +9,7 @@ datePublished: '2015-07-19T20:07:43.038Z'
 title: The Sun Raise
 tags:
   - ''
-dateModified: '2015-07-24T00:32:20.639Z'
+dateModified: '2015-07-28T01:39:42.097Z'
 sourcePath: _posts/2015-07-19-the-sun-raise.md
 published: true
 authors: []
