@@ -1,6 +1,6 @@
 name: Wes
 favicon: null
-layout_spectrum: 0.65153
+layout_spectrum: 0.59847
 typography_spectrum: 1
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#c6ad84'
     - '#bd6a1c'
   brandStrength: 0
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
