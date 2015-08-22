@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
+        <title><![CDATA[Wes]]></title>
+        <description><![CDATA[Wes]]></description>
         <link>https://thegrid.ai/wes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 07 Aug 2015 14:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2015 10:52:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ah!]]></title>
+            <description><![CDATA[<article><h1>Ah!</h1><img src="https://igcdn-photos-e-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11419198_1598922950388268_778580000_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/34LArowDVO/?taken-by=wes_elder</link>
+            <guid isPermaLink="false">d43d678d-c580-4728-a314-b3eb426c629e</guid>
+            <pubDate>Mon, 20 Jul 2015 22:57:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is not the way Ethan wanted to start his day. However, it's always nice to see the bright shining face of the respiratory therapist who is an Ace at treating Ethan's croup.]]></title>
             <description><![CDATA[<article><h1>This is not the way Ethan wanted to start his day. However, it's always nice to see the bright shining face of the respiratory therapist who is an Ace at treating Ethan's croup.</h1><img src="https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11348321_734212510017289_1515213259_n.jpg"></article>]]></description>
@@ -20,13 +27,6 @@
             <link>https://thegrid.ai/wes/the-sun-raise/index.html</link>
             <guid isPermaLink="false">090a1e25-ee27-418b-9d9f-4a6ad975eb60</guid>
             <pubDate>Sun, 19 Jul 2015 20:07:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ah!]]></title>
-            <description><![CDATA[<article><h1>Ah!</h1><img src="https://igcdn-photos-e-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11419198_1598922950388268_778580000_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/34LArowDVO/?taken-by=wes_elder</link>
-            <guid isPermaLink="false">d43d678d-c580-4728-a314-b3eb426c629e</guid>
-            <pubDate>Mon, 20 Jul 2015 22:57:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yum! It's almost eating time. #garden #tomato]]></title>
