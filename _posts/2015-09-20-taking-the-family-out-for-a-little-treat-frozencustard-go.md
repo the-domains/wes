@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/7G0USswDe8/?taken-by=wes_elder'
 title: 'Taking the family out for a little treat. #frozencustard #goodberrys'
-datePublished: '2015-09-20T23:46:24.155Z'
-dateModified: '2015-09-20T21:14:30.310Z'
+datePublished: '2015-09-21T00:10:42.943Z'
+dateModified: '2015-09-21T00:07:18.463Z'
 sourcePath: _posts/2015-09-20-taking-the-family-out-for-a-little-treat-frozencustard-go.md
 published: true
 _type: Photograph
