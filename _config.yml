@@ -1,28 +1,52 @@
-name: Wes
-favicon: null
 layout_spectrum: 0.68057
-typography_spectrum: 0.90816
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+name: Wes
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    filter:
+      notType:
+        type: WebPage
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+  - filter:
+      type:
+        type: Article
+    permalink:
+      path: '/:title/'
+  - filter:
+      type:
+        type: WebPage
+    permalink:
+      path: '/:title/'
+      navigable: true
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.4865093
+  lightness: 0.4814503
+  saturation: 0.4443507
+  rhythmicContrast: 0.5489039
   brandColors:
-    - '#060004'
-    - '#d28653'
-    - '#b16b3f'
-    - '#80391e'
-    - '#541f14'
-  brandStrength: 0
-  lightness: 0.625
-  saturation: 0.5625
-  rhythmicContrast: 0.5
-purpose: []
+    - '#030104'
+    - '#FFB36F'
+    - '#65311E'
+    - '#FFE9B3'
+    - '#545F62'
+typography_spectrum: 0.90816
