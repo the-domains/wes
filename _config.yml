@@ -1,7 +1,7 @@
 name: Wes
 favicon: null
-layout_spectrum: 0.68057
-typography_spectrum: 0.90816
+layout_spectrum: 0.32356
+typography_spectrum: 0.29588
 collections:
   - index:
       navigable: true
